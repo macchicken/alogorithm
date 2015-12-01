@@ -1,4 +1,3 @@
-package alogorithm;
 
 import java.util.Arrays;
 

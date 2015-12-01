@@ -1,5 +1,3 @@
-package alogorithm;
-
 
 public class StackQueueLinkedList {
 

@@ -1,4 +1,3 @@
-package alogorithm;
 
 class Stack {
 
